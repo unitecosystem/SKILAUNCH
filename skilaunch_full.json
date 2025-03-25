@@ -2,7 +2,7 @@
   "name": "SKILAUNCH",
   "symbol": "SKILAUNCH",
   "description": "SKILAUNCH token for the SKILAUNCH ecosystem",
-  "image": "https://raw.githubusercontent.com/unitecosystem/SKILAUNCH/main/skilaunch.png",
+  "image": "https://raw.githubusercontent.com/unitecosystem/skilaunch/refs/heads/main/skilaunch.png",
   "creator": {
     "name": "Unite Ecosystem",
     "site": "https://uniteecosystem.com"
@@ -10,3 +10,4 @@
   "seller_fee_basis_points": 0,
   "creators": null
 }
+
